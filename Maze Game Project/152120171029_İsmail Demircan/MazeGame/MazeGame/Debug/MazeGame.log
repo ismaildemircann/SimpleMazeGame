@@ -1,4 +1,0 @@
-﻿  Main.cpp
-C:\Users\CXXX\Desktop\MazeGame\MazeGame\Main.cpp(56,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\CXXX\Desktop\MazeGame\MazeGame\Main.cpp(214,2): warning C4551: function call missing argument list
-  MazeGame.vcxproj -> C:\Users\CXXX\Desktop\MazeGame\Debug\MazeGame.exe
